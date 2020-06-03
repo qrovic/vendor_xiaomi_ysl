@@ -66,6 +66,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/ysl/proprietary/vendor/etc/permissions/android.hardware.vulkan.level-0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.vulkan.level-0.xml \
     vendor/xiaomi/ysl/proprietary/vendor/etc/permissions/android.hardware.vulkan.version.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.vulkan.version.xml \
     vendor/xiaomi/ysl/proprietary/vendor/etc/permissions/android.hardware.vulkan.version-1_1.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.vulkan.version-1_1.xml \
+    vendor/xiaomi/ysl/proprietary/vendor/etc/permissions/android.hardware.opengles.aep.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.opengles.aep.xml \
     vendor/xiaomi/ysl/proprietary/vendor/etc/qdcm_calib_data_auo_ili7807d_hd720_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_auo_ili7807d_hd720_video_mode_dsi_panel.xml \
     vendor/xiaomi/ysl/proprietary/vendor/etc/qdcm_calib_data_shenchao_ili9881c_hd720p_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_shenchao_ili9881c_hd720p_video_mode_dsi_panel.xml \
     vendor/xiaomi/ysl/proprietary/vendor/etc/qdcm_calib_data_truly_hx8394f_hd720_video_mode_dsi_panel.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_truly_hx8394f_hd720_video_mode_dsi_panel.xml \
